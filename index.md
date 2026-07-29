@@ -1,19 +1,26 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: home
 ---
+
+Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthropology and an MS in Computational Social Science. I am passionate about mapping the messy, organic complexity of nature and human societies into elegant, functional data models. 
+
+**What I do & what I bring to the table:**
+
+* 💻 **Data & Automation:** I love applying quantitative analysis, building automated systems, and crafting solid data pipelines.
+* 🔍 **Systematic Rigor:** I have a strong track record of following precise technical guidelines to translate real-world systems into clean data.
+* 🗣️ **Clear Communication:** A decade of independent science tutoring has honed my ability to explain complex, technical concepts to non-technical audiences.
+* 🧗 **Adaptability & Grit:** Forged through years of hands-on, seasonal work in demanding industrial environments.
+
+**My Goal:** To solidify my career in data analytics while writing code that contributes to impactful, applied research.
+
 <style>
   /* CSS to create the grid and style the cards */
   .portfolio-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
   }
   .project-card {
     border: 1px solid #e1e4e8;
@@ -43,7 +50,7 @@ layout: home
   .btn-primary {
     display: inline-block;
     background-color: #24292e;
-    color: #ffffff !important; /* Forces text to be white, ignoring theme defaults */
+    color: #ffffff !important;
     padding: 8px 14px;
     border-radius: 6px;
     text-decoration: none;
