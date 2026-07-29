@@ -1,15 +1,15 @@
 # Site-wide settings
 # ------------------
 #
- title: Ignacio Jiménez
+title: Ignacio Jiménez
 #
 # author:
 #   username: IggyWake
-   email: ignaciofs.dataresearch@gmail.com
+email: ignaciofs.dataresearch@gmail.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
- description: >
+description: >
    A page dedicated to showcase my projects in data analysis, scraping and visualization.
 
 
