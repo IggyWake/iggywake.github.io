@@ -89,7 +89,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">Web Scraping</span>
       <span class="tag">BeautifulSoup</span>
     </div>
-    <p>An automated web scraper that extracts and structures lore and item descriptions from the Dark Souls wiki into a clean dataset for analysis.</p>
+    <p>An automated web scraper that extracts and structures item descriptions from the Dark Souls videogame wiki into a clean dataset for text analysis.</p>
     <a href="https://github.com/IggyWake/dark-souls-webscraper/blob/main/README.md" class="btn-primary" target="_blank">Project Description</a>
     <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/code" class="btn-secondary" target="_blank">View Code</a>
     <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/data" class="btn-secondary" target="_blank">View Files</a>
@@ -104,10 +104,10 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">Mathematical Modeling</span>
       <span class="tag">Research</span>
     </div>
-    <p>An agent-based simulation mapping the organic complexity of altruistic behaviors in populations into a functional mathematical model.</p>
-    <a href="https://github.com/IggyWake/ebb-and-flow/blob/main/README.md" class="btn-primary" target="_blank">Project Description</a>
-    <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/the_ebb_and_flow_of_cooperation.pdf" class="btn-secondary" download>View Paper (PDF)</a>
-    <a href="https://github.com/IggyWake/ebb-and-flow/tree/main/code" class="btn-secondary" download>View Code (PDF)</a>
+    <p>An agent-based simulation mapping the evolutionary dynamics of cooperative traits across overlapping groups.</p>
+    <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/the_ebb_and_flow_of_cooperation.pdf" class="btn-primary" target="_blank">View Paper</a>
+    <a href="https://github.com/IggyWake/ebb-and-flow/blob/main/README.md" class="btn-secondary" download>Project Description</a>
+    <a href="https://github.com/IggyWake/ebb-and-flow/tree/main/code" class="btn-secondary" download>View Code</a>
   </div>
 
   <!-- Project 3: Cibervoluntarios -->
@@ -130,7 +130,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">Sports Analytics</span>
       <span class="tag">Python</span>
     </div>
-    <p>A collection of advanced data visualizations analyzing MLB Statcast metrics to uncover player performance trends and game dynamics.</p>
+    <p>A data visualization exercise consisting on replicating and reimagining a graph representing all 113.145 balls thrown in play in all US baseball leagues in 2016.</p>
     <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/process_report.html" class="btn-primary" target="_blank">Process Report</a>
     <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/graphs" class="btn-secondary" target="_blank">View Graphs</a>
     <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/code" class="btn-secondary" target="_blank">View Code</a>
