@@ -105,8 +105,8 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">Research</span>
     </div>
     <p>An agent-based simulation mapping the organic complexity of altruistic behaviors in populations into a functional mathematical model.</p>
-    <a href="https://github.com/IggyWake/ebb-and-flow" class="btn-primary" target="_blank">View Project</a>
-    <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/the_ebb_and_flow_of_cooperation.pdf" class="btn-secondary" download>Get Paper (PDF) ⬇</a>
+    <a href="https://github.com/IggyWake/ebb-and-flow/tree/main/code" class="btn-primary" target="_blank">View Code</a>
+    <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/the_ebb_and_flow_of_cooperation.pdf" class="btn-secondary" download>View Paper (PDF)</a>
   </div>
 
   <!-- Project 3: Cibervoluntarios -->
@@ -118,7 +118,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">Solo Authorship</span>
     </div>
     <p>An independent, comprehensive data report analyzing operational metrics and community impact, translating real-world systems into actionable insights.</p>
-    <a href="PATH_TO_YOUR_REPORT.pdf" class="btn-primary" download>Get Report (PDF) ⬇</a>
+    <a href="PATH_TO_YOUR_REPORT.pdf" class="btn-primary" download>View Report (PDF)</a>
   </div>
 
   <!-- Project 4: Baseball Statcast -->
