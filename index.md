@@ -119,4 +119,17 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
     <a href="PATH_TO_YOUR_REPORT.pdf" class="btn-primary" download>Get Report (PDF) ⬇</a>
   </div>
 
+  <!-- Project 4: Baseball Statcast -->
+  <div class="project-card">
+    <h3 class="project-title">Baseball Statcast Data Visualizations</h3>
+    <div class="tag-container">
+      <span class="tag">Data Visualization</span>
+      <span class="tag">Sports Analytics</span>
+      <span class="tag">Python</span>
+    </div>
+    <p>A collection of advanced data visualizations analyzing MLB Statcast metrics to uncover player performance trends and game dynamics.</p>
+    <a href="URL_TO_YOUR_GITHUB_REPO" class="btn-primary" target="_blank">View Code ➔</a>
+    <a href="PATH_TO_YOUR_GRAPHS" class="btn-secondary" target="_blank">View Graphs ➔</a>
+  </div>
+
 </div>
