@@ -90,9 +90,9 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">BeautifulSoup</span>
     </div>
     <p>An automated web scraper that extracts and structures lore and item descriptions from the Dark Souls wiki into a clean dataset for analysis.</p>
-    <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/code" class="btn-primary" target="_blank">View Project ➔</a>
-    <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/code" class="btn-secondary" target="_blank">View Code ➔</a>
-    <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/data" class="btn-secondary" target="_blank">View Files ➔</a>
+    <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/code" class="btn-primary" target="_blank">View Project</a>
+    <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/code" class="btn-secondary" target="_blank">View Code</a>
+    <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/data" class="btn-secondary" target="_blank">View Files</a>
     
   </div>
 
@@ -105,7 +105,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">Research</span>
     </div>
     <p>An agent-based simulation mapping the organic complexity of altruistic behaviors in populations into a functional mathematical model.</p>
-    <a href="https://github.com/IggyWake/ebb-and-flow" class="btn-primary" target="_blank">View Project ➔</a>
+    <a href="https://github.com/IggyWake/ebb-and-flow" class="btn-primary" target="_blank">View Project</a>
     <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/the_ebb_and_flow_of_cooperation.pdf" class="btn-secondary" download>Get Paper (PDF) ⬇</a>
   </div>
 
@@ -130,8 +130,9 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">Python</span>
     </div>
     <p>A collection of advanced data visualizations analyzing MLB Statcast metrics to uncover player performance trends and game dynamics.</p>
-    <a href="URL_TO_YOUR_GITHUB_REPO" class="btn-primary" target="_blank">View Code ➔</a>
-    <a href="PATH_TO_YOUR_GRAPHS" class="btn-secondary" target="_blank">View Graphs ➔</a>
+    <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/code" class="btn-primary" target="_blank">Process Report</a>
+    <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/graphs" class="btn-secondary" target="_blank">View Graphs</a>
+    <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/code" class="btn-secondary" target="_blank">View Code</a>
   </div>
 
 </div>
