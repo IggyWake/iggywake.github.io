@@ -91,7 +91,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
     </div>
     <p>An automated web scraper that extracts and structures lore and item descriptions from the Dark Souls wiki into a clean dataset for analysis.</p>
     <a href="https://github.com/IggyWake/dark-souls-webscraper" class="btn-primary" target="_blank">View Code ➔</a>
-    <a href="https://github.com/IggyWake/iggywake.github.io/tree/main/dark-souls-files" class="btn-secondary" target="_blank">View Files ➔</a>
+    <a href="https://github.com/IggyWake/iggywake.github.io/tree/master/dark-souls-files" class="btn-secondary" target="_blank">View Files ➔</a>
   </div>
 
   <!-- Project 2: NetLogo -->
