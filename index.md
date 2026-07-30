@@ -105,8 +105,9 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">Research</span>
     </div>
     <p>An agent-based simulation mapping the organic complexity of altruistic behaviors in populations into a functional mathematical model.</p>
-    <a href="https://github.com/IggyWake/ebb-and-flow/tree/main/code" class="btn-primary" target="_blank">View Code</a>
+    <a href="https://github.com/IggyWake/ebb-and-flow/blob/main/README.md" class="btn-primary" target="_blank">Project Description</a>
     <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/the_ebb_and_flow_of_cooperation.pdf" class="btn-secondary" download>View Paper (PDF)</a>
+    <a href="https://github.com/IggyWake/ebb-and-flow/tree/main/code" class="btn-secondary" download>View Code (PDF)</a>
   </div>
 
   <!-- Project 3: Cibervoluntarios -->
