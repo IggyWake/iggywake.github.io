@@ -106,8 +106,8 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
     </div>
     <p>An agent-based simulation mapping the evolutionary dynamics of cooperative traits across overlapping groups.</p>
     <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/the_ebb_and_flow_of_cooperation.pdf" class="btn-primary" target="_blank">View Paper</a>
-    <a href="https://github.com/IggyWake/ebb-and-flow/blob/main/README.md" class="btn-secondary" download>Project Description</a>
-    <a href="https://github.com/IggyWake/ebb-and-flow/tree/main/code" class="btn-secondary" download>View Code</a>
+    <a href="https://github.com/IggyWake/ebb-and-flow/blob/main/README.md" class="btn-secondary" target="_blank">Project Description</a>
+    <a href="https://github.com/IggyWake/ebb-and-flow/tree/main/code" class="btn-secondary" target="_blank">View Code</a>
   </div>
 
   <!-- Project 3: Cibervoluntarios -->
