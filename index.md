@@ -130,7 +130,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">Python</span>
     </div>
     <p>A collection of advanced data visualizations analyzing MLB Statcast metrics to uncover player performance trends and game dynamics.</p>
-    <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/code" class="btn-primary" target="_blank">Process Report</a>
+    <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/process_report.html" class="btn-primary" target="_blank">Process Report</a>
     <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/graphs" class="btn-secondary" target="_blank">View Graphs</a>
     <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/code" class="btn-secondary" target="_blank">View Code</a>
   </div>
