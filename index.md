@@ -103,7 +103,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">Research</span>
     </div>
     <p>An agent-based simulation mapping the organic complexity of altruistic behaviors in populations into a functional mathematical model.</p>
-    <a href="URL_TO_YOUR_GITHUB_REPO" class="btn-primary" target="_blank">View Code ➔</a>
+    <a href="https://github.com/IggyWake/ebb-and-flow" class="btn-primary" target="_blank">View Code ➔</a>
     <a href="PATH_TO_YOUR_PAPER.pdf" class="btn-secondary" download>Get Paper (PDF) ⬇</a>
   </div>
 
