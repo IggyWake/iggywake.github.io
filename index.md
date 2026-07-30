@@ -90,7 +90,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
       <span class="tag">BeautifulSoup</span>
     </div>
     <p>An automated web scraper that extracts and structures lore and item descriptions from the Dark Souls wiki into a clean dataset for analysis.</p>
-    <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/code" class="btn-primary" target="_blank">View Project</a>
+    <a href="https://github.com/IggyWake/dark-souls-webscraper/blob/main/README.md" class="btn-primary" target="_blank">Project Description</a>
     <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/code" class="btn-secondary" target="_blank">View Code</a>
     <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/data" class="btn-secondary" target="_blank">View Files</a>
     
