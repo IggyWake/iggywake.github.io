@@ -83,14 +83,14 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
 
   <!-- Project 1: Dark Souls -->
   <div class="project-card">
-    <h3 class="project-title">Dark Souls Item Description Scraper</h3>
+    <h3 class="project-title">Wiki scraper for Dark Souls videogames</h3>
     <div class="tag-container">
       <span class="tag">Python</span>
       <span class="tag">Web Scraping</span>
       <span class="tag">BeautifulSoup</span>
     </div>
-    <p>An automated web scraper that extracts and structures item descriptions from the Dark Souls videogame wiki into a clean dataset for text analysis.</p>
-    <a href="https://github.com/IggyWake/dark-souls-webscraper/blob/main/README.md" class="btn-primary" target="_blank">Project Description</a>
+    <p>An automated web scraper that extracts and structures item descriptions from the Dark Souls videogames wiki into a clean dataset for text analysis.</p>
+    <a href="https://github.com/IggyWake/dark-souls-webscraper/blob/main/README.md" class="btn-primary" target="_blank">Project Readme</a>
     <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/code" class="btn-secondary" target="_blank">View Code</a>
     <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/data" class="btn-secondary" target="_blank">View Files</a>
     
@@ -106,7 +106,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
     </div>
     <p>An agent-based simulation mapping the evolutionary dynamics of cooperative traits across overlapping groups.</p>
     <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/the_ebb_and_flow_of_cooperation.pdf" class="btn-primary" target="_blank">View Paper</a>
-    <a href="https://github.com/IggyWake/ebb-and-flow/blob/main/README.md" class="btn-secondary" target="_blank">Project Description</a>
+    <a href="https://github.com/IggyWake/ebb-and-flow/blob/main/README.md" class="btn-secondary" target="_blank">Project Readme</a>
     <a href="https://github.com/IggyWake/ebb-and-flow/tree/main/code" class="btn-secondary" target="_blank">View Code</a>
   </div>
 
