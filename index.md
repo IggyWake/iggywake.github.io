@@ -156,7 +156,7 @@ layout: home
   <li><strong>Data Automation:</strong> Building automated data pipelines through clean, robust, and legible code, allowing my meticulous nature to really shine.</li>
   <li><strong>Visualization and Storytelling:</strong> Crafting beautiful and compelling visual narratives that turn raw data into actionable insights.</li>
   <li><strong>Causal Inference and Research Design:</strong> Applying strict scientific rigor to real problems, through research anchored in solid methodology, allowing me to measure the true effects of strategic initiatives, policies, and business decisions.</li>
-  <li><strong>Clear comunication:</strong> A decade of independent science tutoring has honed my ability to explain complex, technical concepts to non-technical audiences.</li>
+  <li><strong>Clear comunication:</strong> Over a decade of independent science teaching and tutoring has honed my ability to explain complex, technical concepts to non-technical audiences.</li>
 </ul>
 
 <hr class="section-divider">
