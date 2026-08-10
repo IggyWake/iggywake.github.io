@@ -2,18 +2,46 @@
 layout: home
 ---
 
-Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthropology and an MS in Computational Social Science. I am passionate about mapping the messy, organic complexity of nature and human societies into elegant, functional data models. 
+<div class="bio-intro">
+  Hi there! I'm a Junior Data Analyst with a unique background blending Anthropology and an MS in Computational Social Science. I am passionate about mapping the messy, organic complexity of nature and human societies into elegant, functional data models.
+</div>
 
-**What I do & what I bring to the table:**
+<h2 class="what-i-do-heading">What I do</h2>
 
-* 💻 **Data & Automation:** I love applying quantitative analysis, building automated systems, and crafting solid data pipelines.
-* 🔍 **Systematic Rigor:** I have a strong track record of following precise technical guidelines to translate real-world systems into clean data.
-* 🗣️ **Clear Communication:** A decade of independent science tutoring has honed my ability to explain complex, technical concepts to non-technical audiences.
-* 🧗 **Adaptability & Grit:** Forged through years of hands-on, seasonal work in demanding industrial environments.
+<ul class="custom-bio-list">
+  <li><strong>Data & Automation:</strong> I love applying quantitative analysis, building automated systems, and crafting solid data pipelines.</li>
+  <li><strong>Systematic Rigor:</strong> I have a strong track record of following precise technical guidelines to translate real-world systems into clean data.</li>
+  <li><strong>Clear Communication:</strong> A decade of independent science tutoring has honed my ability to explain complex, technical concepts to non-technical audiences.</li>
+  <li><strong>Adaptability & Grit:</strong> Forged through years of hands-on, seasonal work in demanding industrial environments.</li>
+</ul>
 
-**My Goal:** To solidify my career in data analytics while writing code that contributes to impactful, applied research.
+<p class="bio-intro">
+  <strong>My Goal:</strong> To solidify my career in data analytics while writing code that contributes to impactful, applied research.
+</p>
 
 <style>
+
+  /* Bio & Typography Styles */
+  .bio-intro {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 40px;
+  }
+  .what-i-do-heading {
+    font-size: 2em;
+    font-weight: 300; /* This gives it the thin, sharp look of the site title */
+    letter-spacing: -0.5px;
+    margin-bottom: 25px;
+    color: #24292e;
+  }
+  .custom-bio-list {
+    margin-bottom: 40px;
+  }
+  .custom-bio-list li {
+    margin-bottom: 18px; /* This is the "air" between bullet points */
+    line-height: 1.7;
+    font-size: 1.05em;
+  }
   .portfolio-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
