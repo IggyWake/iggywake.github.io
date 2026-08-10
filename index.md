@@ -170,10 +170,11 @@ layout: home
     <div class="category-banner">SCRAPING</div>
     <h3 class="project-title">Wiki scraper for Dark Souls videogames</h3>
     <p>An automated web scraper that extracts and structures item descriptions from the Dark Souls videogames wiki into a clean dataset for text analysis.</p>
-    <a href="https://github.com/IggyWake/dark-souls-webscraper/blob/main/README.md" class="btn-primary" target="_blank">Project Readme</a>
-    <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/data" class="btn-secondary" target="_blank">Files</a>
-    <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/code" class="btn-secondary" target="_blank">Code</a>
-    
+    <div class="button-group">
+      <a href="https://github.com/IggyWake/dark-souls-webscraper/blob/main/README.md" class="btn-primary" target="_blank">Project Readme</a>
+      <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/data" class="btn-secondary" target="_blank">Files</a>
+      <a href="https://github.com/IggyWake/dark-souls-webscraper/tree/main/code" class="btn-secondary" target="_blank">Code</a>
+    </div>
   </div>
 
   <!-- Project 2: NetLogo -->
@@ -181,9 +182,11 @@ layout: home
     <div class="category-banner">SIMULATION</div>
     <h3 class="project-title">Evolutionary Spread of Altruist Traits</h3>
     <p>An agent-based simulation mapping the evolutionary dynamics of cooperative traits across overlapping groups.</p>
-    <a href="https://github.com/IggyWake/ebb-and-flow/blob/main/README.md" class="btn-primary" target="_blank">Project Readme</a>
-    <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/the_ebb_and_flow_of_cooperation.pdf" class="btn-secondary" target="_blank">View Paper</a>
-    <a href="https://github.com/IggyWake/ebb-and-flow/tree/main/code" class="btn-secondary" target="_blank">Code</a>
+    <div class="button-group">
+      <a href="https://github.com/IggyWake/ebb-and-flow/blob/main/README.md" class="btn-primary" target="_blank">Project Readme</a>
+      <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/the_ebb_and_flow_of_cooperation.pdf" class="btn-secondary" target="_blank">View Paper</a>
+      <a href="https://github.com/IggyWake/ebb-and-flow/tree/main/code" class="btn-secondary" target="_blank">Code</a>
+    </div>
   </div>
 
   <!-- Project 3: Cibervoluntarios -->
@@ -191,8 +194,10 @@ layout: home
     <div class="category-banner">ANALYSIS</div>
     <h3 class="project-title">Fundación Cibervoluntarios Data Report</h3>
     <p>An independent, comprehensive data report analyzing operational metrics and community impact, translating real-world systems into actionable insights.</p>
-    <a href="PATH_TO_YOUR_REPORT.pdf" class="btn-primary" download>View Report (PDF)</a>
-    <a href="https://github.com/IggyWake/iggywake.github.io/tree/master/code" class="btn-secondary" target="_blank">Code</a>
+    <div class="button-group">
+      <a href="PATH_TO_YOUR_REPORT.pdf" class="btn-primary" download>View Report (PDF)</a>
+      <a href="https://github.com/IggyWake/iggywake.github.io/tree/master/code" class="btn-secondary" target="_blank">Code</a>
+    </div>
   </div>
 
   <!-- Project 4: Baseball Statcast -->
@@ -200,9 +205,11 @@ layout: home
     <div class="category-banner">VISUALIZATION</div>
     <h3 class="project-title">Baseball Statcast Data Visualizations</h3>
     <p>A data visualization exercise consisting on replicating and reimagining a graph representing all 113.145 balls thrown in play in all US baseball leagues in 2016.</p>
-    <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/process_report.html" class="btn-primary" target="_blank">Process Report</a>
-    <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/graphs" class="btn-secondary" target="_blank">Graphs</a>
-    <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/code" class="btn-secondary" target="_blank">Code</a>
+    <div class="button-group">
+      <a href="https://github.com/IggyWake/iggywake.github.io/blob/master/files/process_report.html" class="btn-primary" target="_blank">Process Report</a>
+      <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/graphs" class="btn-secondary" target="_blank">Graphs</a>
+      <a href="https://github.com/IggyWake/statcast-baseball-dataviz/tree/main/code" class="btn-secondary" target="_blank">Code</a>
+    </div>
   </div>
 
 </div>
