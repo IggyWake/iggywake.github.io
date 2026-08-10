@@ -3,6 +3,48 @@ layout: home
 ---
 
 <style>
+
+  /* Profile Header Styles */
+  .profile-header {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+  }
+  .profile-pic {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #e1e4e8;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  }
+  .profile-name {
+    font-size: 2.5em;
+    font-weight: 300;
+    margin: 0 0 5px 0;
+    color: #24292e;
+    letter-spacing: -1px;
+  }
+  .profile-role {
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #586069;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+  }
+  
+  /* Make it stack neatly on small mobile screens */
+  @media (max-width: 600px) {
+    .profile-header {
+      flex-direction: column;
+      text-align: center;
+      gap: 15px;
+    }
+  }
+  
   /* Typography & Layout Styles */
   .section-heading {
     font-size: 1.7em;
@@ -99,6 +141,14 @@ layout: home
     background-color: #f3f4f6;
   }
 </style>
+
+<div class="profile-header">
+  <img src="files/profile-pic.jpg" alt="Ignacio Jiménez" class="profile-pic">
+  <div class="profile-info">
+    <h1 class="profile-name">Ignacio Jiménez</h1>
+    <p class="profile-role">Junior Data Analyst</p>
+  </div>
+</div>
 
 <h2 class="section-heading">About me</h2>
 <div class="bio-intro">
