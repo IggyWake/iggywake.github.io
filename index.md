@@ -90,9 +90,11 @@ layout: home
     flex-direction: column;
     height: 100%;
   }
-
-  .project-card p {
-    flex-grow: 1; 
+  .button-group {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 10px; 
+    margin-top: auto; /* This is the magic line! */
   }
   .category-banner {
     background-color: #24292e;
