@@ -103,18 +103,16 @@ layout: home
 <h2 class="section-heading">About me</h2>
 <div class="bio-intro">
   Hi there! I'm a Junior Data Analyst with a unique background blending Anthropology and an MS in Computational Social Science. I am passionate about mapping the messy, organic complexity of nature and human societies into elegant, functional data models.
-  <br><br>
-  <strong>My Goal:</strong> To solidify my career in data analytics while writing code that contributes to impactful, applied research.
 </div>
 
 <hr class="section-divider">
 
 <h2 class="section-heading">What I do</h2>
 <ul class="custom-bio-list">
-  <li><strong>Data & Automation:</strong> I love applying quantitative analysis, building automated systems, and crafting solid data pipelines.</li>
-  <li><strong>Systematic Rigor:</strong> I have a strong track record of following precise technical guidelines to translate real-world systems into clean data.</li>
-  <li><strong>Clear Communication:</strong> A decade of independent science tutoring has honed my ability to explain complex, technical concepts to non-technical audiences.</li>
-  <li><strong>Adaptability & Grit:</strong> Forged through years of hands-on, seasonal work in demanding industrial environments.</li>
+  <li><strong>Data Automation:</strong> Building automated data pipelines through clean, robust, and legible code, allowing my meticulous nature to really shine.</li>
+  <li><strong>Visualization and Storytelling:</strong> Crafting beautiful and compelling visual narratives that turn raw data into actionable insights.</li>
+  <li><strong>Causal Inference and Research Design:</strong> Applying strict scientific rigor to real problems, through research anchored in solid methodology, allowing me to measure the true effects of strategic initiatives, policies, and business decisions.</li>
+  <li><strong>Clear comunication:</strong> A decade of independent science tutoring has honed my ability to explain complex, technical concepts to non-technical audiences.</li>
 </ul>
 
 <hr class="section-divider">
