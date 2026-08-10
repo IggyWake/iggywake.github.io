@@ -86,6 +86,13 @@ layout: home
     padding: 20px;
     background-color: #ffffff;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .project-card p {
+    flex-grow: 1; 
   }
   .category-banner {
     background-color: #24292e;
