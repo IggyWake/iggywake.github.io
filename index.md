@@ -2,51 +2,40 @@
 layout: home
 ---
 
-<div class="bio-intro">
-  Hi there! I'm a Junior Data Analyst with a unique background blending Anthropology and an MS in Computational Social Science. I am passionate about mapping the messy, organic complexity of nature and human societies into elegant, functional data models.
-</div>
-
-<h2 class="what-i-do-heading">What I do</h2>
-
-<ul class="custom-bio-list">
-  <li><strong>Data & Automation:</strong> I love applying quantitative analysis, building automated systems, and crafting solid data pipelines.</li>
-  <li><strong>Systematic Rigor:</strong> I have a strong track record of following precise technical guidelines to translate real-world systems into clean data.</li>
-  <li><strong>Clear Communication:</strong> A decade of independent science tutoring has honed my ability to explain complex, technical concepts to non-technical audiences.</li>
-  <li><strong>Adaptability & Grit:</strong> Forged through years of hands-on, seasonal work in demanding industrial environments.</li>
-</ul>
-
-<p class="bio-intro">
-  <strong>My Goal:</strong> To solidify my career in data analytics while writing code that contributes to impactful, applied research.
-</p>
-
 <style>
-
-  /* Bio & Typography Styles */
+  /* Typography & Layout Styles */
+  .section-heading {
+    font-size: 1.7em;
+    font-weight: 300;
+    letter-spacing: -0.5px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #24292e;
+  }
+  .section-divider {
+    border: 0;
+    border-top: 1px solid #e1e4e8; /* Light grey horizontal line */
+    margin: 40px 0; /* Generous whitespace above and below the line */
+  }
   .bio-intro {
     font-size: 1.1em;
     line-height: 1.6;
-    margin-bottom: 40px;
-  }
-  .what-i-do-heading {
-    font-size: 2em;
-    font-weight: 300; /* This gives it the thin, sharp look of the site title */
-    letter-spacing: -0.5px;
-    margin-bottom: 25px;
-    color: #24292e;
   }
   .custom-bio-list {
-    margin-bottom: 40px;
+    margin-bottom: 0;
   }
   .custom-bio-list li {
-    margin-bottom: 18px; /* This is the "air" between bullet points */
+    margin-bottom: 18px;
     line-height: 1.7;
     font-size: 1.05em;
   }
+
+  /* Portfolio Grid Styles */
   .portfolio-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
-    margin-top: 40px;
+    margin-top: 30px;
     margin-bottom: 40px;
   }
   .project-card {
@@ -64,7 +53,7 @@ layout: home
     font-size: 0.8em;
     letter-spacing: 1.5px;
     padding: 6px;
-    margin: -20px -20px 20px -20px; /* Pulls the banner flush with the card edges */
+    margin: -20px -20px 20px -20px; 
     border-radius: 7px 7px 0 0;
   }
   .project-title {
@@ -111,7 +100,26 @@ layout: home
   }
 </style>
 
-<h2>Featured Projects</h2>
+<h2 class="section-heading">About me</h2>
+<div class="bio-intro">
+  Hi there! I'm a Junior Data Analyst with a unique background blending Anthropology and an MS in Computational Social Science. I am passionate about mapping the messy, organic complexity of nature and human societies into elegant, functional data models.
+  <br><br>
+  <strong>My Goal:</strong> To solidify my career in data analytics while writing code that contributes to impactful, applied research.
+</div>
+
+<hr class="section-divider">
+
+<h2 class="section-heading">What I do</h2>
+<ul class="custom-bio-list">
+  <li><strong>Data & Automation:</strong> I love applying quantitative analysis, building automated systems, and crafting solid data pipelines.</li>
+  <li><strong>Systematic Rigor:</strong> I have a strong track record of following precise technical guidelines to translate real-world systems into clean data.</li>
+  <li><strong>Clear Communication:</strong> A decade of independent science tutoring has honed my ability to explain complex, technical concepts to non-technical audiences.</li>
+  <li><strong>Adaptability & Grit:</strong> Forged through years of hands-on, seasonal work in demanding industrial environments.</li>
+</ul>
+
+<hr class="section-divider">
+
+<h2 class="section-heading">Featured Projects</h2>
 
 <div class="portfolio-grid">
 
