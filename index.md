@@ -14,7 +14,6 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
 **My Goal:** To solidify my career in data analytics while writing code that contributes to impactful, applied research.
 
 <style>
-  /* CSS to create the grid and style the cards */
   .portfolio-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -28,6 +27,17 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
     padding: 20px;
     background-color: #ffffff;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+  .category-banner {
+    background-color: #24292e;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 0.8em;
+    letter-spacing: 1.5px;
+    padding: 6px;
+    margin: -20px -20px 20px -20px; /* Pulls the banner flush with the card edges */
+    border-radius: 7px 7px 0 0;
   }
   .project-title {
     margin-top: 0;
@@ -47,10 +57,8 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
     margin-right: 5px;
     margin-bottom: 5px;
   }
-  .btn-primary {
+  .btn-primary, .btn-secondary {
     display: inline-block;
-    background-color: #24292e;
-    color: #ffffff !important;
     padding: 8px 14px;
     border-radius: 6px;
     text-decoration: none;
@@ -58,19 +66,17 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
     margin-top: 10px;
     margin-right: 10px;
   }
+  .btn-primary {
+    background-color: #24292e;
+    color: #ffffff !important;
+  }
   .btn-primary:hover {
     background-color: #000000;
   }
   .btn-secondary {
-    display: inline-block;
     background-color: #fafbfc;
     color: #24292e !important;
     border: 1px solid #d1d5da;
-    padding: 8px 14px;
-    border-radius: 6px;
-    text-decoration: none;
-    font-size: 0.9em;
-    margin-top: 10px;
   }
   .btn-secondary:hover {
     background-color: #f3f4f6;
@@ -83,6 +89,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
 
   <!-- Project 1: Dark Souls -->
   <div class="project-card">
+    <div class="category-banner">SCRAPING</div>
     <h3 class="project-title">Wiki scraper for Dark Souls videogames</h3>
     <div class="tag-container">
       <span class="tag">Python</span>
@@ -98,6 +105,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
 
   <!-- Project 2: NetLogo -->
   <div class="project-card">
+    <div class="category-banner">SIMULATION</div>
     <h3 class="project-title">Evolutionary Spread of Altruist Traits</h3>
     <div class="tag-container">
       <span class="tag">NetLogo</span>
@@ -112,6 +120,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
 
   <!-- Project 3: Cibervoluntarios -->
   <div class="project-card">
+    <div class="category-banner">ANALYSIS</div>
     <h3 class="project-title">Fundación Cibervoluntarios Data Report</h3>
     <div class="tag-container">
       <span class="tag">Data Analysis</span>
@@ -124,6 +133,7 @@ Hi there! 👋 I'm a Junior Data Analyst with a unique background blending Anthr
 
   <!-- Project 4: Baseball Statcast -->
   <div class="project-card">
+    <div class="category-banner">VISUALIZATION</div>
     <h3 class="project-title">Baseball Statcast Data Visualizations</h3>
     <div class="tag-container">
       <span class="tag">Data Visualization</span>
