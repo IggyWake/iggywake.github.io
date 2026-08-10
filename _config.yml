@@ -6,6 +6,8 @@ description: Junior Data Analyst.
 
 minima:
   hide_site_feed_link: true
+  nav_pages:
+    - about.md
 
 # Build settings
 # --------------
